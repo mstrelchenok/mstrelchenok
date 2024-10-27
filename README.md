@@ -1,5 +1,5 @@
-Maryia Stralchonak
-AGH University,Krakow
+-Maryia Stralchonak
+-AGH University,Krakow
 
 <!---
 mstrelchenok/mstrelchenok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
